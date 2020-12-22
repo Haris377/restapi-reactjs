@@ -1,0 +1,17 @@
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BLL.dll.config
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BLL.dll
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.BLL.pdb
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DAL.dll
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EntityFramework.dll
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EntityFramework.SqlServer.dll
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DAL.pdb
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DAL.dll.config
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EmployeeManagement.DM.pdb
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EntityFramework.xml
+G:\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\EntityFramework.SqlServer.xml
+G:\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csprojAssemblyReference.cache
+G:\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.CoreCompileInputs.cache
+G:\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.csproj.CopyComplete
+G:\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.dll
+G:\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\EmployeeManagement.BLL.pdb

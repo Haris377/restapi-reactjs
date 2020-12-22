@@ -1,0 +1,17 @@
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\EntityFramework.dll
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\EmployeeManagement.DM.pdb
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\EntityFramework.xml
+G:\EmployeeManagement\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\EmployeeManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojAssemblyReference.cache
+G:\EmployeeManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+G:\EmployeeManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+G:\EmployeeManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+G:\EmployeeManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

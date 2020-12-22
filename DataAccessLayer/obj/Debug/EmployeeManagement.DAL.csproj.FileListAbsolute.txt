@@ -1,0 +1,16 @@
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll.config
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.pdb
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.dll
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DM.pdb
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.xml
+G:\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csprojAssemblyReference.cache
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CopyComplete
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.dll
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.pdb
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.Migrations.InitailMigration.resources
+G:\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.GenerateResource.cache

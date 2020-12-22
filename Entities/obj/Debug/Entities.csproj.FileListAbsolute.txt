@@ -1,0 +1,11 @@
+G:\EmployeeManagement\EmployeeManagement.DM\bin\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\EmployeeManagement.DM\bin\Debug\EmployeeManagement.DM.pdb
+G:\EmployeeManagement\EmployeeManagement.DM\obj\Debug\Entities.csprojAssemblyReference.cache
+G:\EmployeeManagement\EmployeeManagement.DM\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+G:\EmployeeManagement\EmployeeManagement.DM\obj\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\EmployeeManagement.DM\obj\Debug\EmployeeManagement.DM.pdb
+G:\EmployeeManagement\Entities\bin\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\Entities\bin\Debug\EmployeeManagement.DM.pdb
+G:\EmployeeManagement\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+G:\EmployeeManagement\Entities\obj\Debug\EmployeeManagement.DM.dll
+G:\EmployeeManagement\Entities\obj\Debug\EmployeeManagement.DM.pdb

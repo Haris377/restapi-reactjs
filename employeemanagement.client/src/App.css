@@ -1,0 +1,25 @@
+.formControl{
+    display: flex;
+    align-items: center;
+    object-fit: contain;
+    text-align: right;
+    padding-left: 20px;
+}
+
+.searchBar {
+    width: 800px;
+    color: grey;
+    font-size: large;
+    height: 40px;
+}
+
+.rdFlex {
+    display: flex;
+    margin: 10px;
+}
+
+.margin
+{
+margin-left: 10px;
+
+}
